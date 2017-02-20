@@ -1,0 +1,79 @@
+<div id="banner" class="span-24 last">
+
+		<div id="header" class="span-18">
+
+			<h1 id="banner-header"  class="append-bottom"><a href="http://www.mystmargarets.com/" accesskey="1"><img src="/images/mystmgargarets_logo_300.jpg"  width="300" height="87" alt="My St Margarets" /></a></h1>
+
+			<h2 id="banner-description"></h2>
+
+		<!-- / header --></div>
+
+  	<!-- SEARCH -->
+	<div id="search" class="span-6 last">
+
+		<h2>Search</h2>
+		
+		<form method="get" action="http://www.mahnke.net/peter/MT/mt-search.cgi">
+		<fieldset>
+			<input type="hidden" name="IncludeBlogs" value="18" />
+			<input id="search_text" name="search" size="20" /><br />
+			<input id="search_submit" type="submit" value="Search" />
+		</fieldset>
+		</form>
+	
+	<!-- / search --></div>
+
+
+
+<!-- / banner --></div>
+
+<div id="menu" class="span-24">
+  <!-- MENU -->
+		<h2>Menu</h2>
+				<ul class="module-list">
+<li class="module-list-item"><a href="/index.html">Home</a></li>
+
+                
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/about_us/" title="About us">About us</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/competitions/" title="Competitions">Competitions</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/articles/" title="Features">Features</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/food/" title="Food">Food</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/offers/" title="Local Deals and Offers">Local Deals and Offers</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/local_links/" title="Local Links">Local Links</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/news/" title="Local News">Local News</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/our_magazine/" title="Our Magazine">Our Magazine</a>
+		
+		
+		</li>
+<li class="module-list-item"><a href="/directory">Traders directory</a></li>
+</ul>
+  
+<!-- /menu --></div>

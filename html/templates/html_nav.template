@@ -1,0 +1,18 @@
+  <!-- MENU -->
+		<h2>Menu</h2>
+		<MTTopLevelCategories>
+		<MTSubCatIsFirst><ul class="module-list">
+<li class="module-list-item"><a href="/index.html">Home</a></li>
+
+                </MTSubCatIsFirst>
+		<MTIfNonZero tag="MTCategoryCount">
+			<li class="module-list-item"><a href="<$MTCategoryArchiveLink$>" title="<$MTCategoryLabel$>"><MTCategoryLabel></a>
+		<MTElse>
+			<li class="module-list-item"><h3><MTCategoryLabel></h3>
+		</MTElse>
+		</MTIfNonZero>
+		<MTSubCatsRecurse></li><MTSubCatIsLast>
+
+<li class="module-list-item"><a href="/directory">Traders directory</a></li>
+</ul></MTSubCatIsLast>
+  </MTTopLevelCategories>

@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Language" content="en" />
+        <meta name="author"    content="Peter Mahnke" />
+        <meta name="copyright" content="&copy; Copyright 2006 by Peter Mahnke. All rights reserved." />
+
+        <link rel="stylesheet" href="http://www.stmgrts.org.uk/styles-site.css"         type="text/css" />
+        <link rel="start" href="http://www.stmgrts.org.uk" title="Home" />
+
+        <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+        <meta http-equiv="content-language" content="" />
+
+        <title>St Margarets Community Website: edit menu</title>
+
+        
+
+	<style type="text/css">
+	 
+	</style>
+
+        
+
+        <script type="text/javascript" language="javascript">
+        
+        </script>
+
+    </head>
+
+    <body>
+
+        <div id="container">
+
+        <div id="banner">
+            <a href="http://www.mystmargarets.com/" accesskey="1"><img src="http://www.mystmargarets.com/images/mystmgargarets_logo_300.jpg"  width="300" height="87" alt="My St Margarets" /></a>
+        </div><!-- end div banner -->
+
+            <div id="twocolcenter">
+
+                <div class="content">
+
+                    <h1><a href="http://mystmargarets.com/">mystmargarets.com</a></h1>
+
+<h4>ARTICLES</h4>
+<ul>
+  <li><a href="http://intl.transitionelement.com/rt/convertText.cgi">convertText tool</a></li>
+  <li><a href="http://www.mahnke.net/peter/MT/mt.cgi">movable type - article tool</a></li>
+  <li><a href="http://www.mystmargarets.com/food/raw/">Philip' raw posts</a></li>
+</ul>
+
+<h4>DIRECTORY</h4>
+<ul>
+  <li><a href="http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=new&amp;type=alpha">new</a></li>
+  <li><a href="http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=editlist&amp;type=alpha">edit list</a></li>
+  <li><a href="http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=venuelist&amp;type=alpha">venue list</a></li>
+</ul>
+
+<h4>ADS</h4>
+<ul>
+  <li><a href="http://www.mystmargarets.com/cgi-bin/ads.cgi?a=stats">stats</a></li>
+  <li><a href="http://www.mystmargarets.com/cgi-bin/ads.cgi?a=site_view&s_id=1">site view</a></li>
+  <li><a href="http://www.mystmargarets.com/cgi-bin/ads.cgi?a=banner_new">new banner</a></li>
+</ul>
+
+<!-- <h4>EVENTS</h4>
+<ul>
+<li><a href="http://stmgrts.org.uk/cgi-bin/events.cgi?action=new&amp;type=alpha">new</a></li>
+<li><a href="http://www.stmgrts.org.uk/cgi-bin/events.cgi?action=editlist&amp;type=alpha">edit list</a></li>
+</ul>-->
+
+                </div><!-- end div content -->
+
+            </div><!-- end div twocolcenter -->
+
+            <div id="right">
+                <div class="sidebar">
+                <div id="categories">
+                    <h2>Navigation</h2>
+                        <ul>
+                            <li><a href="/archives/news/index.html">news</a></li>
+                            <li><a href="/archives/editorial/index.html">editorial</a></li>
+                            <li><a href="/archives/around_town/index.html">around town</a></li>
+                            <li><a href="/event">events</a></li>
+                            <li><a href="/directory">local info</a></li>
+                            <li><a href="/forum.cgi">forums</a></li>
+                            <li><a href="/static/info/colophon.html">about</a></li>
+                            <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+                        </ul>
+                </div><!-- end div categories -->
+
+
+
+
+                </div><!-- end div sidebar -->
+
+            </div><!-- end div right -->
+        <div style="clear: both;">&#160;</div>
+
+<div id="footer">
+  <div id="footer_nav">
+     <h2>Navigation</h2>
+     <ul>
+        <li><a href="/index.shtml">homepage</a></li>
+        <li><a href="/event">events</a></li>
+        <li><a href="/directory">local info</a></li>
+        <li><a href="/cgi-bin/yabb/YaBB.pl">forums</a></li>
+        <li><a href="/static/info/colophon.html">about</a></li>
+        <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+        <li><a href="/poll">polls</a></li>
+        <li><a href="/static/info/contact.html">contact</a></li>
+        <li><a href="/static/info/colophon.html">about</a></li>
+     </ul>
+   </div><!-- end div footer_nav -->
+
+  <div id="footer_archives">
+     <h2><a href="/archives.html" title="Archives by Catagory">Archives</a></h2>
+     <ul>
+        <li><a href="/archives/news/index.html">news</a></li>
+        <li><a href="/archives/editorial/index.html">editorial</a></li>
+        <li><a href="/archives/around_town/index.html">around town</a></li>
+     </ul>
+     
+     <h2>News Feeds</h2>
+
+     <ul>
+        <li><a href="/atom.xml">atom</a></li>
+        <li><a href="/index.rdf">rss1</a></li>
+        <li><a href="/index.xml">rss2</a></li>
+     </ul>
+
+  
+   </div><!-- end div footer_archives -->
+
+  <div id="footer_search">
+     <h2>Search</h2>
+<!-- Search Google -->
+
+<form method="get" action="http://www.google.com/custom">
+  <p><input type="text" name="q" size="20" maxlength="255" value="" accesskey="4" /></p>
+  <p><input type="submit" name="sa" value="Search" /></p>
+  <input type="hidden" name="cof" value="GALT:#230582;S:http://www.stmgrts.org.uk;VLC:#3366CC;AH:left;BGC:#FFFFFF;LH\:77;LC:#003399;GFNT:#666666;L:http://www.stmgrts.org.uk/images/st_margarets_logo_tree.gif;ALC:#333399;LW:400;T:#3333\33;GIMP:#000000;AWFID:91c7107967733779;" />
+  <input type="hidden" name="domains" value="www.stmgrts.org.uk" />
+  <input type="hidden" name="sitesearch" value="www.stmgrts.org.uk" />
+</form>
+<!-- Search Google -->    
+
+     
+    <h2>Train Schedules</h2>
+
+    <ul>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+    </ul>
+
+   </div><!-- end div footer_search -->
+   
+   
+<p class="copyright">&copy; 2004-2010 St Margarets Community Website<br />Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="/images/cc_by_nd.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;"/></a></p>
+
+
+</div><!-- end div footer -->
+
+        </div><!-- end div container -->
+ 
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-286964-1";
+urchinTracker();
+</script> 
+    </body>
+</html>

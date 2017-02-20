@@ -1,0 +1,14 @@
+<div id="banner" class="span-24 last">
+
+		<div id="header" class="span-18">
+
+			<h1 id="banner-header"  class="append-bottom"><a href="<$MTBlogURL$>" accesskey="1"><img src="/images/mystmgargarets_logo_300.jpg"  width="300" height="87" alt="<$MTBlogName encode_html="1"$>" /></a></h1>
+
+			<h2 id="banner-description"><$MTBlogDescription$></h2>
+
+		<!-- / header --></div>
+
+  <$MTInclude module="search"$>
+
+
+<!-- / banner --></div>

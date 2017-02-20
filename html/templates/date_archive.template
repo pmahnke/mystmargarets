@@ -1,0 +1,74 @@
+<$MTInclude module="head"$>
+
+	<title><$MTBlogName encode_html="1"$>: <$MTArchiveTitle$></title>
+
+</head>
+
+<body id="category">
+ 
+	<div class="container">
+
+		<div id="content" class="span-24 last">
+
+<$MTInclude module="header_small"$>
+
+			<div id="entries" class="span-14">
+ 
+				<div id="intro">
+					<MTIfCategory label="Local News"><img src="/images/banner_news.jpg" class="span-14" /></MTIfCategory>
+					<MTIfCategory label="Local Deals and Offers"><img src="/images/banner_offers.jpg" class="span-14" /></MTIfCategory>
+					<MTIfCategory label="Competitions"><img src="/images/banner_competitions.jpg" class="span-14" /></MTIfCategory>
+					<MTIfCategory label="Local Links"><img src="/images/banner_links.jpg" class="span-14" /></MTIfCategory>
+					<MTIfCategory label="About us"><img src="/images/banner_about.jpg" class="span-14" /></MTIfCategory>
+					<MTIfCategory label="Our Magazine"><img src="/images/banner_magazine.jpg" class="span-14" /></MTIfCategory>
+				<!-- /intro --></div>
+				
+                        <p class="content-nav">
+                        <MTArchivePrevious><a href="<$MTArchiveLink$>">&laquo; <$MTArchiveTitle$></a> |</MTArchivePrevious>
+                        <a href="<$MTBlogURL$>">Main</a>
+                        <MTArchiveNext>| <a href="<$MTArchiveLink$>"><$MTArchiveTitle$> &raquo;</a></MTArchiveNext>
+                         </p>
+
+				<h2 id="archive-title"><$MTArchiveTitle$> Archives</h2>
+				
+				<MTEntries>
+				
+				<$MTEntryTrackbackData$>
+				
+				<div class="entry prepend-top clear clearfix span-14" id="entry-<$MTEntryID$>">
+									
+					<h2><a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a></h2>
+					
+					<$MTEntryExcerpt encode_ampersands="1" filters="textile_2"$>
+					
+					<MTIfNonEmpty tag="EntryMore" convert_breaks="0">
+                    <p class="entry-more-link"><a href="<$MTEntryPermalink$>#more">Continue reading "<$MTEntryTitle$>" &raquo;</a></p>
+                    </MTIfNonEmpty>
+                        
+                    <p class="entry-footer">
+                    	<span class="post-footers">
+                            Posted on <$MTEntryDate format="%x"$>
+                        </span>
+                        
+                        <MTIfCommentsActive><a href="<$MTEntryPermalink$>#comments">Comments (<$MTEntryCommentCount$>)</a></MTIfCommentsActive>
+                        
+                        <MTIfPingsActive>| <a href="<$MTEntryPermalink$>#trackback">TrackBacks (<$MTEntryTrackbackCount$>)</a></MTIfPingsActive>
+                        
+                    </p>
+                     
+			<!-- /entry --></div>
+                     
+            </MTEntries>
+                  
+        <!-- /entries --></div>
+
+ <$MTInclude module="side_column_right_category"$>
+
+	<!-- / content --></div>
+
+<$MTInclude module="footer"$>
+	
+<!-- / container --></div>
+
+	</body>
+</html>

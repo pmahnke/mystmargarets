@@ -1,0 +1,63 @@
+<div id="side_column_right" class="prepend-1 span-9 last">
+
+    <div id="menu" class="span-5">
+<$MTInclude module="nav"$>
+    <!-- /menu --></div>
+
+	
+	<div id="mission" class="span-4 last">
+		<p><a href="/">MyStMargarets.com</a> is the local website for St Margarets, brimming with news and information from your local businesses.</p>
+		<p style="display:none;">Want to join the <em>St Margarets Traders Association</em>? Do you run a business from your home or within the St Margarets area? The Associate Member scheme launched in February 2010. <a href="/2010/09/st_margarets_traders_association.html">Read about the benefits of membership and how to apply.</a></p>
+
+	<!-- /mission --></div>
+
+
+ 	<div id="promo" class="prepend-top span-9">
+
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=3" title="promo 1" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=3" class="append-bottom" alt="promo 1" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=5" title="promo 2" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=5" class="append-bottom" alt="promo 2" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=6" title="promo 3" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=6" class="append-bottom" alt="promo 3" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=7" title="promo 4" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=7" class="append-bottom" alt="promo 4" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=8" title="promo 5" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=8" class="append-bottom" alt="promo 5" /></a>
+
+<!--			<a href="/cgi-bin/l.cgi?n=12345&amp;z=9" title="promo 6" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=9" class="append-bottom" alt="promo 6" /></a>
+-->
+
+ 	<!-- /promo --></div>
+
+
+
+	<!-- RECENT POSTS -->
+	<div id="recent_posts"  class="span-9">
+	
+		<h2>Recent Posts</h2>
+		
+		<ul class="module-list">
+		<MTEntries lastn="10">
+			<li class="module-list-item"><a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a></li>
+		</MTEntries>
+		</ul>
+		
+	<!-- / recent_posts --></div>
+	
+	<!-- ARCHIVE -->
+	<div id="archive"  class="span-9">
+	
+		<h2><a href="<$MTBlogURL$>archives.html">Archives</a></h2>
+		
+		<MTArchiveList archive_type="Monthly">
+		
+		<MTArchiveListHeader><ul></MTArchiveListHeader>
+		
+			<li class="module-list-item"><a href="<$MTArchiveLink$>"><$MTArchiveTitle$></a></li>
+			
+		<MTArchiveListFooter></ul></MTArchiveListFooter>
+		
+		</MTArchiveList>
+		
+	<!-- / archive --></div>
+
+	
+ <p id="rss-feed"><a href="<$MTBlogURL$>atom.xml">RSS</a></p>
+                  
+<!-- / side_column_right --></div>

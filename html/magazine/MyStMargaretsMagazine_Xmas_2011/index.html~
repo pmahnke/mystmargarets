@@ -1,0 +1,45 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>PDF2FlashPageFlip Book</title>
+	<script src="swfobject.js" type="text/javascript"></script>
+	<style type="text/css">
+		* {
+			margin: 0;
+			padding: 0;
+			border: none;
+		}
+		
+		body {
+			font: normal 0.7em "verdana";
+			background: #eeeeee;
+			color: #fff;
+			text-align: center;
+		}
+		
+		a {
+			color: #666;
+		}
+		
+		#flashcontent {
+			text-align: left;
+			margin: 0 auto;
+		}
+
+	</style>
+</head>
+<body>
+
+	<div id="flashcontent" style="width:100%; height:100%;">
+		<h1>My St Maragarets Magazine - Autumn 2011</h1>
+		<p>To view the book, you need the latest <a href="http://adobe.com/go/getflashplayer">Flash player</a>.</p>
+	</div>
+	<script type="text/javascript">
+		   var so = new SWFObject("book.swf", "book", "100%", "100%", "8", "#cccccc");
+		   so.addVariable("xmlFile","data/pages.xml");
+		   so.addVariable("fullscreen","true");
+		   so.write("flashcontent");
+	</script>
+</body>
+</html>
+

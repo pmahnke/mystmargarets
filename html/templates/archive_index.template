@@ -1,0 +1,40 @@
+<$MTInclude module="head"$>
+   
+   <title><$MTBlogName encode_html="1"$>: Archives</title>
+   
+   <link rel="start" href="<$MTBlogURL$>" title="Home" />
+   
+   <MTBlogIfCCLicense>
+   <$MTCCLicenseRDF$>
+   </MTBlogIfCCLicense>
+   
+   <$MTInclude module="google"$>
+   
+</head>
+<body class="archive">
+
+        <div class="container">
+
+                <div id="content" class="span-24 last">
+		
+    <$MTInclude module="header_small"$>
+         
+                  <div id="archive_list" class="span-14">
+                     <h2>Archives</h2>
+                           <ul>
+                              <MTArchiveList archive_type="Individual">
+                                 <li><$MTArchiveDate format="%Y.%m.%d"$>: <a href="<$MTArchiveLink$>"><$MTArchiveTitle$></a></li>
+                              </MTArchiveList>
+               <!-- /archive_list --></div>
+               
+
+<$MTInclude module="side_column_right"$>
+
+               <!-- /content --></div>
+
+                     
+<$MTInclude module="footer"$>
+                   
+            <!-- /container --></div>
+</body>
+</html>

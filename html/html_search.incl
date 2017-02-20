@@ -1,0 +1,14 @@
+	<!-- SEARCH -->
+	<div id="search" class="span-6 last">
+
+		<h2>Search</h2>
+		
+		<form method="get" action="<$MTCGIPath$><$MTSearchScript$>">
+		<fieldset>
+			<input type="hidden" name="IncludeBlogs" value="<$MTBlogID$>" />
+			<input id="search_text" name="search" size="20" /><br />
+			<input id="search_submit" type="submit" value="Search" />
+		</fieldset>
+		</form>
+	
+	<!-- / search --></div>

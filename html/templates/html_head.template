@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+     <meta  name="description" content="MyStMargarets.com is the local website for the St Margarets Traders Association, brimming with news and information from your local businesses." />
+     <meta name="keywords" content="My St Margarets, Twickenham, Richmond, London, ">
+
+    <!-- heading font -->
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css' />
+
+	<link rel="shortcut icon" href="/images/heart_125_transparent.png" />
+   
+	<link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/print.css" type="text/css" media="print" />    
+	<!--[if IE]><link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+		
+	<link rel="stylesheet" href="/styles-site.css" type="text/css" />
+
+	<link rel="alternate" type="application/atom+xml" title="Atom" href="<$MTBlogURL$>atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="<$MTBlogURL$>index.xml" />
+
+          <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+ 
+  

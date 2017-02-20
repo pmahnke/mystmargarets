@@ -1,0 +1,28 @@
+<div id="banner" class="span-24 last">
+
+		<div id="header" class="span-18">
+
+			<h1 id="banner-header"  class="append-bottom"><a href="http://www.mystmargarets.com/" accesskey="1"><img src="/images/mystmgargarets_logo_300.jpg"  width="300" height="87" alt="My St Margarets" /></a></h1>
+
+			<h2 id="banner-description"></h2>
+
+		<!-- / header --></div>
+
+  	<!-- SEARCH -->
+	<div id="search" class="span-6 last">
+
+		<h2>Search</h2>
+		
+		<form method="get" action="http://www.mahnke.net/peter/MT/mt-search.cgi">
+		<fieldset>
+			<input type="hidden" name="IncludeBlogs" value="18" />
+			<input id="search_text" name="search" size="20" /><br />
+			<input id="search_submit" type="submit" value="Search" />
+		</fieldset>
+		</form>
+	
+	<!-- / search --></div>
+
+
+
+<!-- / banner --></div>

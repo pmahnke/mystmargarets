@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- heading font -->
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css' />
+
+	<link rel="shortcut icon" href="/images/heart_125_transparent.png" />
+   
+	<link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/screen.css" type="text/css" media="screen, projection" />
+	<link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/print.css" type="text/css" media="print" />    
+	<!--[if IE]><link rel="stylesheet" href="http://www.mahnke.net/css/blueprint/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+
+		
+	<link rel="stylesheet" href="/styles-site.css" type="text/css" />
+
+	<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.mystmargarets.com/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.mystmargarets.com/index.xml" />
+
+          <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+
+   <title>My St Margarets</title>
+   
+   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mystmargarets.com/rsd.xml" />
+
+   
+      <!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://www.mystmargarets.com/">
+<dc:title>My St Margarets</dc:title>
+<dc:description></dc:description>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+</License>
+</rdf:RDF>
+-->
+
+
+
+</head>
+
+<body class="main-index">
+
+	<div class="container">
+
+		<div id="content" class="span-24 last">
+
+<div id="banner" class="span-24 last">
+
+		<div id="header" class="span-18">
+
+			<h1 id="banner-header"  class="append-bottom"><a href="http://www.mystmargarets.com/" accesskey="1"><img src="/images/mystmargarets_logo_tight.jpg"  width="572" height="166" alt="My St Margarets" /></a></h1>
+
+		<!-- / header --></div>
+
+<$MTInclude module="search"$>
+
+
+<!-- / banner --></div>
+
+		<!-- ENTRIES -->		
+		<div id="entries" class="span-14">
+
+			<!-- removed for flip clock <div id="intro">
+      			<img src="/images/banner_homepage.jpg" alt="The MyStMargarets Website - packed with information about your local businesses" class="span-14" />-->
+			<!-- /intro </div>-->
+
+		
+			<MTEntries>
+			
+			<$MTEntryTrackbackData$>
+				
+			<div id="entry-<$MTEntryID$>"   class="entry prepend-top clear clearfix span-14">
+			
+				<h2><a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a></h2>
+				
+				<$MTEntryExcerpt  encode_ampersands="1" filters="textile_2" $>
+		
+
+<MTIfNonEmpty tag="MTEntryBody">
+                  <p class="extended"><a href="<$MTEntryPermalink$>#more">Continue reading &#8230;</a></p>
+</MTIfNonEmpty>
+				
+			<!-- / entry --></div>
+            </MTEntries>
+
+		<!-- / entries --></div>
+		
+<$MTInclude module="side_column_right"$>
+
+
+	<!-- / content --></div>
+
+  <$MTInclude module="footer"$>
+
+<!-- / container --></div>
+
+<!-- flipclock settings -->
+	<script type="text/javascript">
+		var clock;
+		
+		$(document).ready(function() {
+			var clock;
+
+			clock = $('.clock').FlipClock({
+		        clockFace: 'DailyCounter',
+		        autoStart: false,
+		        callbacks: {
+		        	stop: function() {
+		        		$('.message').html('The clock has stopped!')
+		        	}
+		        }
+			});
+		    
+			// Grab the current date
+			var currentDate = new Date();
+			// Set some date in the future. In this case, it's always Jan 1
+			var futureDate  = new Date("September 18, 2015 20:00:00");
+			// Calculate the difference in seconds between the future and current date
+			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+				    
+			clock.setTime(diff);
+			clock.setCountdown(true);
+			clock.start();
+
+		});
+	</script>
+
+</body>
+</html>

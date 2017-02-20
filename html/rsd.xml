@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type 3.38</engineName> 
+<engineLink>http://www.sixapart.com/movabletype/</engineLink>
+<homePageLink>http://www.mystmargarets.com/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="http://www.mahnke.net/peter/MT/mt-xmlrpc.cgi" blogID="18" />
+<api name="MovableType" preferred="false" apiLink="http://www.mahnke.net/peter/MT/mt-xmlrpc.cgi" blogID="18" />
+<api name="Blogger" preferred="false" apiLink="http://www.mahnke.net/peter/MT/mt-xmlrpc.cgi" blogID="18" />
+<api name="Atom" preferred="false" apiLink="http://www.mahnke.net/peter/MT/mt-atom.cgi/weblog" blogID="18" />
+</apis>
+</service>
+</rsd>

@@ -1,0 +1,607 @@
+<div id="side_column_right" class="prepend-1 span-9 last">
+
+    <div id="menu" class="span-5">
+  <!-- MENU -->
+		<h2>Menu</h2>
+				<ul class="module-list">
+<li class="module-list-item"><a href="/index.html">Home</a></li>
+
+                
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/about_us/" title="About us">About us</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/competitions/" title="Competitions">Competitions</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/articles/" title="Features">Features</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/food/" title="Food">Food</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/offers/" title="Local Deals and Offers">Local Deals and Offers</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/local_links/" title="Local Links">Local Links</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/news/" title="Local News">Local News</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/our_magazine/" title="Our Magazine">Our Magazine</a>
+		
+		
+		</li>
+<li class="module-list-item"><a href="/directory">Traders directory</a></li>
+</ul>
+  
+    <!-- /menu --></div>
+
+	
+	<div id="mission" class="span-4 last">
+		<p><a href="/">MyStMargarets.com</a> is the local website for St Margarets, brimming with news and information from your local businesses.</p>
+		<p style="display:none;">Want to join the <em>St Margarets Traders Association</em>? Do you run a business from your home or within the St Margarets area? The Associate Member scheme launched in February 2010. <a href="/2010/09/st_margarets_traders_association.html">Read about the benefits of membership and how to apply.</a></p>
+
+	<!-- /mission --></div>
+
+
+ 	<div id="promo" class="prepend-top span-9">
+
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=3" title="promo 1" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=3" class="append-bottom" alt="promo 1" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=5" title="promo 2" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=5" class="append-bottom" alt="promo 2" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=6" title="promo 3" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=6" class="append-bottom" alt="promo 3" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=7" title="promo 4" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=7" class="append-bottom" alt="promo 4" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=8" title="promo 5" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=8" class="append-bottom" alt="promo 5" /></a>
+
+<!--			<a href="/cgi-bin/l.cgi?n=12345&amp;z=9" title="promo 6" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=9" class="append-bottom" alt="promo 6" /></a>
+-->
+
+ 	<!-- /promo --></div>
+
+
+
+	<!-- RECENT POSTS -->
+	<div id="recent_posts"  class="span-9">
+	
+		<h2>Recent Posts</h2>
+		
+		<ul class="module-list">
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/04/weve_signed_a_petition.shtml">We've signed a petition!</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/03/prices_new_candles_have_come_to_cutters_1.shtml">Price's new candles have come to Cutters!</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/03/2_new_workshops_from_crown_roads_apothecary_botanica_medica.shtml">2 new workshops from Crown Road's apothecary, Botanica Medica</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/03/today_the_inaugural_jim_diamond_memorial_trophy_game_was_pla.shtml">Today, the inaugural "Jim Diamond Memorial Trophy" game was played in Marble Hill Park, </a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/03/shop_for_sale_in_st_margarets.shtml">Shop for Sale in St Margarets!</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/02/were_hiring_could_you_be_our_new_adminstrator.shtml">We're hiring! Could YOU be our new adminstrator?</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/12/goodbye_from_adam_our_assistant.shtml">Thank You and Goodbye from Adam, SMTA Assistant...</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/12/merry_christmas_st_margarets.shtml">MERRY CHRISTMAS, ST MARGARETS!</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/12/merry_christmas_from_thai_pin.shtml">Merry Christmas from Thai Pin!</a></li>
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/12/heres_pawbags_cutters_cat_on_her_favourite_napping_chair.shtml">Here's Pawbags, Cutters' cat, on her favourite napping chair!</a></li>
+		
+		</ul>
+		
+	<!-- / recent_posts --></div>
+	
+	<!-- ARCHIVE -->
+	<div id="archive"  class="span-9">
+	
+		<h2><a href="http://www.mystmargarets.com/archives.html">Archives</a></h2>
+		
+				
+		<ul>
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/04/">April 2016</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/03/">March 2016</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2016/02/">February 2016</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/12/">December 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/11/">November 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/10/">October 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/09/">September 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/08/">August 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/07/">July 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/06/">June 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/05/">May 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/04/">April 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/03/">March 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/02/">February 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2015/01/">January 2015</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/12/">December 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/11/">November 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/10/">October 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/09/">September 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/08/">August 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/07/">July 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/06/">June 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/05/">May 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/04/">April 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/03/">March 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/02/">February 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2014/01/">January 2014</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/12/">December 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/11/">November 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/10/">October 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/09/">September 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/08/">August 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/07/">July 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/06/">June 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/05/">May 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/04/">April 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/03/">March 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/02/">February 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2013/01/">January 2013</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/12/">December 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/11/">November 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/10/">October 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/09/">September 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/08/">August 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/06/">June 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/05/">May 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/04/">April 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/03/">March 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2012/02/">February 2012</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/12/">December 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/11/">November 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/10/">October 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/09/">September 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/08/">August 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/07/">July 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/06/">June 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/05/">May 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/04/">April 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/03/">March 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/02/">February 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2011/01/">January 2011</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/12/">December 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/11/">November 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/10/">October 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/09/">September 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/08/">August 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/06/">June 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/05/">May 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2010/03/">March 2010</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2009/12/">December 2009</a></li>
+			
+		
+		
+				
+		
+		
+			<li class="module-list-item"><a href="http://www.mystmargarets.com/2009/11/">November 2009</a></li>
+			
+		</ul>
+		
+		
+		
+	<!-- / archive --></div>
+
+	
+ <p id="rss-feed"><a href="http://www.mystmargarets.com/atom.xml">RSS</a></p>
+                  
+<!-- / side_column_right --></div>

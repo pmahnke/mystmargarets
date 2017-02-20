@@ -1,0 +1,93 @@
+<div id="side_column_right" class="span-10 last">
+
+  <!-- MENU -->
+	<div id="menu" class="span-5">
+		
+		<h2>Menu</h2>
+		<MTTopLevelCategories>
+		<MTSubCatIsFirst><ul class="module-list">
+<li class="module-list-item"><a href="/index.html">Home</a></li>
+
+                </MTSubCatIsFirst>
+		<MTIfNonZero tag="MTCategoryCount">
+			<li class="module-list-item"><a href="<$MTCategoryArchiveLink$>" title="<$MTCategoryDescription$>"><MTCategoryLabel></a>
+		<MTElse>
+			<li class="module-list-item"><h3><MTCategoryLabel></h3>
+		</MTElse>
+		</MTIfNonZero>
+		<MTSubCatsRecurse></li><MTSubCatIsLast>
+
+<li class="module-list-item"><a href="/directory">Traders directory</a></li>
+</ul></MTSubCatIsLast>
+  </MTTopLevelCategories>
+	<!-- / menu --></div>
+
+	<div class="span-5 last">
+
+		<!-- include local subnav here -->
+	
+	<div id="mission" class="span-5 last">
+		<p><a href="/">MyStMargarets.com</a> is the local website for St Margarets, brimming with news and information from your local businesses.</p>
+		<p style="display:none;">Want to join the <em>St Margarets Traders Association</em>? Do you run a business from your home or within the St Margarets area? The Associate Member scheme launched in February 2010. <a href="/2010/09/st_margarets_traders_association.html">Read about the benefits of membership and how to apply.</a></p>
+
+	<!-- /mission --></div>
+	<!-- /span-5 last --></div>
+
+ 	<div id="promo" class="prepend-top span-10">
+ 		<div id="promo_left" class="span-5">
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=3" title="promo 1" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=3" class="span-4" alt="promo 1" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=5" title="promo 2" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=5" class="span-4" alt="promo 2" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=6" title="promo 3" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=6" class="span-4" alt="promo 3" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=7" title="promo 4" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=7" class="span-4" alt="promo 4" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=8" title="promo 5" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=8" class="span-4" alt="promo 5" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=9" title="promo 6" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=9" class="span-4" alt="promo 6" /></a>
+
+		<!-- /promo_left --></div> 
+ 		
+ 		<div id="promo_right" class="span-5 last">
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=10" title="promo 7" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=10" class="span-4" alt="promo 7" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=11" title="promo 8" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=11" class="span-4" alt="promo 8" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=12" title="promo 9" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=12" class="span-4" alt="promo 9" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=13" title="promo 10" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=13" class="span-4" alt="promo 10" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=14" title="promo 11" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=14" class="span-4" alt="promo 11" /></a>
+			<a href="/cgi-bin/l.cgi?n=12345&amp;z=15" title="promo 12" ><img src="/cgi-bin/i.cgi?n=12345&amp;z=15" class="span-4" alt="promo 12" /></a>
+
+		<!-- /promo_right --></div> 
+	<!-- /promo --></div>
+
+
+
+	<!-- RECENT POSTS -->
+	<div id="recent_posts"  class="span-6 last">
+	
+		<h2>Recent Posts</h2>
+		
+		<ul class="module-list">
+		<MTEntries lastn="10">
+			<li class="module-list-item"><a href="<$MTEntryPermalink$>"><$MTEntryTitle$></a></li>
+		</MTEntries>
+		</ul>
+		
+	<!-- / recent_posts --></div>
+	
+	<!-- ARCHIVE -->
+	<div id="archive"  class="span-6 last">
+	
+		<h2><a href="<$MTBlogURL$>archives.html">Archives</a></h2>
+		
+		<MTArchiveList archive_type="Monthly">
+		
+		<MTArchiveListHeader><ul></MTArchiveListHeader>
+		
+			<li class="module-list-item"><a href="<$MTArchiveLink$>"><$MTArchiveTitle$></a></li>
+			
+		<MTArchiveListFooter></ul></MTArchiveListFooter>
+		
+		</MTArchiveList>
+		
+	<!-- / archive --></div>
+
+	
+ <p id="rss-feed"><a href="<$MTBlogURL$>atom.xml">RSS</a></p>
+                  
+<!-- / side_column_right --></div>

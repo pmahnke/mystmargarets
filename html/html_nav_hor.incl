@@ -1,0 +1,46 @@
+   <!-- MENU -->
+	<div id="menu" class="span-24">
+		
+		<h2>Menu</h2>
+				<ul class="module-list">
+<li class="module-list-item"><a href="/index.html">Home</a></li>
+
+                
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/about_us/" title="">About us</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/competitions/" title="">Competitions</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/articles/" title="">Features</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/offers/" title="">Local Deals and Offers</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/local_links/" title="">Local Links</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/news/" title="">Local News</a>
+		
+		
+		</li>
+  		
+					<li class="module-list-item"><a href="http://www.mystmargarets.com/our_magazine/" title="">Our Magazine</a>
+		
+		
+		</li>
+<li class="module-list-item"><a href="/directory">Traders directory</a></li>
+</ul>
+  
+	<!-- / menu --></div>
